@@ -2,6 +2,7 @@
 This project was made while learning and testing the React Javascript Framework.
   
 # Running The Project
+* Firstly make sure to install the node modules with <npm i>
 1. Use <npm start> to run this project.  
 2. There is no backend setup for this project, so just click sign in once the development server opens.  
 3. Find an image online, copy the URL/link address.  
